@@ -3,7 +3,8 @@
 
 .packages
 .pub/
-
+.fvm
+.fvmrc
 build/
 .idea
 
